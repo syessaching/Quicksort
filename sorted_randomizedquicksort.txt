@@ -1,0 +1,11 @@
+Jeearr Heposiko|1|Engineer|32|2012
+Molly Nyxujijo|2|Custodian|42|2016
+Rezrov Zapefaty|3|Bookkeeper|44|2008
+Krill Dodepo|4|Physicist|48|1997
+Borphee Rozuzy|5|Director|23|2019
+Grubbo Neferele|6|Director|61|1995
+Thriff Cosapeka|7|Technician|24|2019
+Mumbo Muveze|8|Physicist|27|2019
+Grubbo Totexyca|9|Tester|47|2011
+Antharion Buxyho|10|Engineer|31|2020
+Number of comparisons: 25
